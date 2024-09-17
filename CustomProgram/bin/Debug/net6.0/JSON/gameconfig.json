@@ -1,0 +1,21 @@
+{
+  "ScreenWidth": 800,
+  "ScreenHeight": 900,
+  "GameName": "Space Defenders 2.0",
+  "MaxProjectiles": 100,
+  "MaxEnemies": 50,
+  "MaxPowerUps": 50,
+  "MaxExplosion": 30,
+  "MaxHit": 200,
+  "MaxThrusters": 2,
+  "isAlly": true,
+  "isEnemy": false,
+  "isNeutral": false,
+  "PlayerWidth": 30,
+  "PlayerHeight": 30,
+  "PlayerInitialHealth": 3,
+  "PlayerSpawnPosition": {
+    "X": 400,
+    "Y": 700
+  }
+}

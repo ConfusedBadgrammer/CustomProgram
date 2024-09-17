@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZqGBmXryqpPu4d5WgYG18e7Pw4UuK6tS40MUdOL08bv3jSAINsVAvKzfe00VAnpAJKsHLf4KefvagINSj9crJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a1597\\OneDrive\\Desktop\\CompSci\\Y01S02\\COS20007\\6.6HD - HD Level Custom Program\\CustomProgram\\CustomProgram\\SpaceDefenders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a1597\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\a1597\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\a1597\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\a1597\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\a1597\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.18\\microsoft.netcore.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\a1597\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.18\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.18.nupkg.sha512",
+    "C:\\Users\\a1597\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.18\\microsoft.aspnetcore.app.runtime.win-x86.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

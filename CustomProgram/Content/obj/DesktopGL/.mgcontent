@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/font.spritefont</File>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/background.png</File>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/gamestartbackground.png</File>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/gamestartbackground1.png</File>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/gamestartbackground2.png</File>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/gamestartbackground3.png</File>
+    <File>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/gamestartbackground4.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,17 @@
+{
+  "Explosion": "Sound/explosion.wav",
+  "Hit": "Sound/hit.wav",
+  "Fire": "Sound/fire.wav",
+  "PowerUp": "Sound/powerup.wav",
+  "Boost": "Sound/boost.wav",
+  "NoBoost": "Sound/noboost.wav",
+  "DamageTaken": "Sound/damagetaken.wav",
+  "GameStart": "Sound/gamestart.wav",
+  "GameEnd": "Sound/gameend.wav",
+  "GamePause": "Sound/gamepause.wav",
+  "GameUnpause": "Sound/gameunpause.wav",
+  "GameOver": "Sound/gameover.wav",
+  "NewHighScore": "Sound/newhighscore.wav"
+  //"ProjectileHit": "ProjectileHitDirectoryPath"
+  // Add more sound types and directory paths as needed
+}

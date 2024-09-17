@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/User/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/font.spritefont</SourceFile>
+  <SourceTime>2023-10-13T08:26:49+11:00</SourceTime>
+  <DestFile>C:/Users/User/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/bin/DesktopGL/Content/font.xnb</DestFile>
+  <DestTime>2024-09-18T01:29:36.3377748+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T21:44:56+10:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T21:44:56+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

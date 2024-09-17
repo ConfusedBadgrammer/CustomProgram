@@ -1,0 +1,12 @@
+{
+  "Player": "Entity/player.png",
+  "Enemy": "Entity/enemy.png",
+  "Projectile": "Entity/projectile.png",
+  "Explosion": "Entity/explosionsprite.png",
+  "Earth": "Entity/earth.png",
+  "PowerUpFireRate": "Entity/powerupfirerate.png",
+  "PowerUpSpeed": "Entity/powerupspeed.png",
+  "PowerUpHealth": "Entity/poweruphealth.png",
+  "PowerUpFuel": "Entity/powerupfuel.png",
+  "EarthHealth":  "Entity/earthhealth.png"
+}

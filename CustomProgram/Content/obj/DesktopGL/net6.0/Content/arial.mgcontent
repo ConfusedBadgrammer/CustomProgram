@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/arial.spritefont</SourceFile>
+  <SourceTime>2022-07-26T21:44:10+10:00</SourceTime>
+  <DestFile>C:/Users/a1597/OneDrive/Desktop/CompSci/Y01S02/COS20007/6.6HD - HD Level Custom Program/CustomProgram/CustomProgram/Content/bin/DesktopGL/Content/arial.xnb</DestFile>
+  <DestTime>2023-10-11T17:53:03.1435582+11:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T21:44:56+10:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T21:44:56+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>NoChange</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
